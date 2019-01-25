@@ -1,0 +1,17 @@
+{
+  "name": "scraper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ayo Isaiah <ayo@freshman.tech> (https://freshman.tech)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "puppeteer": "^1.11.0"
+  }
+}
