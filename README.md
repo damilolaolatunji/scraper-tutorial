@@ -1,6 +1,6 @@
 # Node.js Web Scraper
 
-Web scraper built with Node.js. Tutorial:
+Web scraper built with Node.js. Tutorial: https://pusher.com/tutorials/web-scraper-node
 
 ## Getting Started
 
